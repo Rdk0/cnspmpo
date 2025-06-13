@@ -1,8 +1,5 @@
 {:deps
  {clojure-complete/clojure-complete {:mvn/version "0.2.5"}
-  ;io.github.nextjournal/clerk {:mvn/version "0.17.1102"}
-  ;org.scicloj/clay {:mvn/version "2-beta41"}
-  ;org.scicloj/noj {:mvn/version "2-beta16"}}
   org.clojure/data.csv {:mvn/version "1.1.0"}
   scicloj/tablecloth {:mvn/version "7.059"}
 }
