@@ -52,4 +52,7 @@
 
   (comment 
     ;clj -M -m pmpo.core --i "./data/input.csv" --o "./data/out2.csv"
+    ;clj -T:build uber
+    ;java -jar target/core-0.0.1-standalone.jar --help
+    ;java -jar target/core-0.0.1-standalone.jar --i ./data/input.csv --o ./data/out.csv
   )
